@@ -1,4 +1,4 @@
-# Carrinho de Compras
+# Carrinho de Compras 🛒
 
 Um simples projeto de carrinho de compras criado usando HTML e CSS. Este projeto demonstra o uso básico de HTML para estruturar uma página de carrinho de compras e CSS para estilizar a interface.
 
