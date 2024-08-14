@@ -22,7 +22,7 @@ Não há pré-requisitos específicos para este projeto além de um navegador we
 1. **Clone o repositório:**
 
    ```bash
-   git clone https://github.com/BeangelinoDev/shopping-cart.git
+   https://github.com/BeangelinoDev/shopping-cart.git
 
 2. **Navegue até o diretório do projeto:**
 
